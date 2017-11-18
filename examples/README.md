@@ -21,7 +21,7 @@
 
 [multiple-entry-points-commons-chunk-css-bundle](multiple-entry-points-commons-chunk-css-bundle)
 
-[names-chunks](names-chunks) example demonstrating merging of chunks with named chunks
+[named-chunks](named-chunks) example demonstrating merging of chunks with named chunks
 
 [two-explicit-vendor-chunks](two-explicit-vendor-chunks)
 
@@ -73,7 +73,7 @@
 
 [harmony-unused](harmony-unused)
 
-## HTT2 Aggressive Splitting
+## HTTP2 Aggressive Splitting
 [http2-aggressive-splitting](http2-aggressive-splitting)
 
 ## Hybrid Routing
